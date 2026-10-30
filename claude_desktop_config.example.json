@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "inventory": {
+      "command": "python",
+      "args": ["/ABSOLUTE/PATH/TO/inventory-mcp/server.py"],
+      "env": { "INVENTORY_DB": "/ABSOLUTE/PATH/TO/inventory-mcp/inventory.db" }
+    }
+  }
+}
